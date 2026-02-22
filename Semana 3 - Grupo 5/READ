@@ -1,1 +1,5 @@
+Una vez terminada la revisión de los conceptos teóricos de la asignatura y como se pudo apreciar en el ejercicio en clase que la segmentación de imágenes sin pasos previos puede no ser la mejor idea. El ejercicio práctico es el siguiente:
 
+Seleccionar el área de interés de las imágenes IR usando los criterios de filtros, selección de bordes y morfología matemática. Compare al menos dos técnicas de forma independiente y secuencial.
+Una vez que haya podido elegir el área de interés, úselo como una máscara para aplicar el conjunto de prueba  (testset), donde solo se pueda observar el área de interés y el resto de pixeles estén asignado el valor de 0. 
+Presente un breve informe comentando el desarrollo realizado, su comparativa visual y el resultado obtenido. Debe adjuntar en enlace de su código. 
